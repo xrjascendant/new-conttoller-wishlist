@@ -1,1 +1,2 @@
 # new-conttoller-wishlist
+dimwishlist:item=1392919471&perks=1482024992,1087426260,2387244414,699525795
