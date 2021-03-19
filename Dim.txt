@@ -1,2 +1,91 @@
 # new-conttoller-wishlist
+Arctic haze pve 
+dimwishlist:item=20935540&perks=1482024992,3230963543,1168162263,1546637391#notes:PVE solid stability roll, vorpal or dragonfly depending on what your using it for, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=1482024992,3230963543,1168162263,2848615171#notes:PVE solid stability roll, vorpal or dragonfly depending on what your using it for, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=1392496348,3230963543,1168162263,2848615171#notes:PVE solid stability roll, vorpal or dragonfly depending on what your using it for, RECOMMENDED MW stab/reload 
+dimwishlist:item=20935540&perks=1392496348,3230963543,1168162263,1546637391#notes:PVE solid stability roll, vorpal or dragonfly depending on what your using it for, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=1840239774,3230963543,1168162263,1546637391#notes:PVE solid stability roll, vorpal or dragonfly depending on what your using it for, RECOMMENDED MW stab/reload 
+dimwishlist:item=20935540&perks=1840239774,3230963543,1168162263,2848615171#notes:PVE solid stability roll, vorpal or dragonfly depending on what your using it for, RECOMMENDED MW stab/reload 
+dimwishlist:item=20935540&perks=4090651448,3230963543,1168162263,2848615171#notes:PVE solid stability roll, vorpal or dragonfly depending on what your using it for, RECOMMENDED MW stab/reload 
+dimwishlist:item=20935540&perks=4090651448,3230963543,1168162263,1546637391#notes:PVE solid stability roll, vorpal or dragonfly depending on what your using it for, RECOMMENDED MW stab/reload 
+dimwishlist:item=20935540&perks=839105230,3230963543,1168162263,1546637391#notes:PVE solid stability roll, vorpal or dragonfly depending on what your using it for, RECOMMENDED MW stab/reload 
+dimwishlist:item=20935540&perks=839105230,3230963543,1168162263,2848615171#notes:PVE solid stability roll,vorpal or dragonfly depending on what your using it for, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=839105230,2420895100,1168162263,2848615171#notes PVE solid stability roll, vorpal or dragonfly depemding on utility, extended mags kills reload speed, counter with either Outlaw or Subsistence, RECOMMENDED MW reload 
+dimwishlist:item=20935540&perks=839105230,2420895100,1168162263,1546637391#notes PVE solid stability roll, vorpal or dragonfly depending on utility, extended mags kills reload speed, counter with either Outlaw or Subsistence, RECOMMENDED MW reload 
+dimwishlist:item=20935540&perks=4090651448,2420895100,1168162263,1546637391#notes PVE solid stability roll, vorpal or dragonfly depending on utility, extended mags kills reload speed, counter with either Outlaw or Subsistence, RECOMMENDED MW reload
+dimwishlist:item=20935540&perks=4090651448,2420895100,1168162263,2848615171#notes PVE solid stability roll, vorpal or dragonfly depending on utility, extended mags kills reload speed, counter with either Outlaw or Subsistence, RECOMMENDED MW reload
+dimwishlist:item=20935540&perks=1840239774,2420895100,1168162263,2848615171#notes PVE solid stability roll, vorpal or dragonfly depending on utility, extended mags kills reload speed, counter with either Outlaw or Subsistence, RECOMMENDED MW reload
+dimwishlist:item=20935540&perks=1840239774,2420895100,1168162263,1546637391#notes PVE solid stability roll, vorpal or dragonfly depending on utility, extended mags kills reload speed, counter with either Outlaw or Subsistence, RECOMMENDED MW reload
+dimwishlist:item=20935540&perks=1392496348,2420895100,1168162263,1546637391#notes PVE solid stability roll, vorpal or dragonfly depending on utility, extended mags kills reload speed, counter with either Outlaw or Subsistence, RECOMMENDED MW reload
+dimwishlist:item=20935540&perks=1392496348,2420895100,1168162263,2848615171#notes PVE solid stability roll, vorpal or dragonfly depending on utility, extended mags kills reload speed, counter with either Outlaw or Subsistence, RECOMMENDED MW reload
+dimwishlist:item=20935540&perks=1482024992,2420895100,1168162263,2848615171#notes PVE solid stability roll, vorpal or dragonfly depending on utility, extended mags kills reload speed, counter with either Outlaw or Subsistence, RECOMMENDED MW reload
+dimwishlist:item=20935540&perks=1482024992,2420895100,1168162263,1546637391#notes PVE solid stability roll, vorpal or dragonfly depending on utility, extended mags kills reload speed, counter with either Outlaw or Subsistence, RECOMMENDED MW reload
+dimwishlist:item=20935540&perks=1482024992,106909392,1168162263,1546637391#notes:PVE solid stability roll, vorpal or dragonfly depending on what your using it for, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=1482024992,106909392,1168162263,2848615171#notes:PVE solid stability roll, vorpal or dragonfly depending on what your using it for, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=1392496348,106909392,1168162263,2848615171#notes:PVE solid stability roll, vorpal or dragonfly depending on what your using it for, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=1392496348,106909392,1168162263,1546637391#notes:PVE solid stability roll, vorpal or dragonfly depending on what your using it for, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=1840239774,106909392,1168162263,1546637391#notes:PVE solid stability roll, vorpal or dragonfly depending on what your using it for, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=1840239774,106909392,1168162263,2848615171#notes:PVE solid stability roll, vorpal or dragonfly depending on what your using it for, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=4090651448,106909392,1168162263,2848615171#notes:PVE solid stability roll, vorpal or dragonfly depending on what your using it for, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=4090651448,106909392,1168162263,1546637391#notes:PVE solid stability roll, vorpal or dragonfly depending on what your using it for, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=839105230,106909392,1168162263,1546637391#notes:PVE solid stability roll, vorpal or dragonfly depending on what your using it for, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=839105230,106909392,1168162263,2848615171#notes:PVE solid stability roll, vorpal or dragonfly depending on what your using it for, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=839105230,1087426260,1168162263,2848615171#notes:PVE always try and control the recoil with this weapon through stability perks and recoil direction, again vorpal or dragonfly depending on utility, RECOMMENDED MW stab/reload 
+dimwishlist:item=20935540&perks=839105230,1087426260,1168162263,1546637391#notes:PVE always try and control the recoil with this weapon through stability perks and recoil direction, again vorpal or dragonfly depending on utility, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=4090651448,1087426260,1168162263,1546637391#notes:PVE always try and control the recoil with this weapon through stability perks and recoil direction, again vorpal or dragonfly depending on utility, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=4090651448,1087426260,1168162263,2848615171#notes:PVE always try and control the recoil with this weapon through stability perks and recoil direction, again vorpal or dragonfly depending on utility, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=1840239774,1087426260,1168162263,2848615171#notes:PVE always try and control the recoil with this weapon through stability perks and recoil direction, again vorpal or dragonfly depending on utility, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=1840239774,1087426260,1168162263,1546637391#notes:PVE always try and control the recoil with this weapon through stability perks and recoil direction, again vorpal or dragonfly depending on utility, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=1392496348,1087426260,1168162263,1546637391#notes:PVE always try and control the recoil with this weapon through stability perks and recoil direction, again vorpal or dragonfly depending on utility, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=1392496348,1087426260,1168162263,2848615171#notes:PVE always try and control the recoil with this weapon through stability perks and recoil direction, again vorpal or dragonfly depending on utility, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=1482024992,1087426260,1168162263,2848615171#notes:PVE always try and control the recoil with this weapon through stability perks and recoil direction, again vorpal or dragonfly depending on utility, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=1482024992,1087426260,1168162263,1546637391#notes:PVE always try and control the recoil with this weapon through stability perks and recoil direction, again vorpal or dragonfly depending on utility, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=1482024992,3230963543,1820235745,1546637391#notes:PVE good roll, alternative to Outlaw roll, Subsistence is a solid Perk often overshadowed by outlaw, RECOMMENDED MW stab/reload 
+dimwishlist:item=20935540&perks=1482024992,3230963543,1820235745,2848615171#notes:PVE good roll, alternative to Outlaw roll, Subsistence is a solid Perk often overshadowed by outlaw, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=1392496348,3230963543,1820235745,2848615171#notes:PVE good roll, alternative to Outlaw roll, Subsistence is a solid Perk often overshadowed by outlaw, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=1392496348,3230963543,1820235745,1546637391#notes:PVE good roll, alternative to Outlaw roll, Subsistence is a solid Perk often overshadowed by outlaw, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=1840239774,3230963543,1820235745,1546637391#notes:PVE good roll, alternative to Outlaw roll, Subsistence is a solid Perk often overshadowed by outlaw, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=1840239774,3230963543,1820235745,2848615171#notes:PVE good roll, alternative to Outlaw roll, Subsistence is a solid Perk often overshadowed by outlaw, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=4090651448,3230963543,1820235745,2848615171#notes:PVE good roll, alternative to Outlaw roll, Subsistence is a solid Perk often overshadowed by outlaw, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=4090651448,3230963543,1820235745,1546637391#notes:PVE good roll, alternative to Outlaw roll, Subsistence is a solid Perk often overshadowed by outlaw, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=839105230,3230963543,1820235745,1546637391#notes:PVE good roll, alternative to Outlaw roll, Subsistence is a solid Perk often overshadowed by outlaw, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=839105230,3230963543,1820235745,2848615171#notes:PVE good roll, alternative to Outlaw roll, Subsistence is a solid Perk often overshadowed by outlaw, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=839105230,2420895100,1820235745,2848615171#notes:PVE solid roll, extended mags slows reload down Subsistence put bullets back in the mag, fun roll for a 720, RECOMMENDED MW stab/reload 
+dimwishlist:item=20935540&perks=839105230,2420895100,1820235745,1546637391#notes:PVE solid roll, extended mags slows reload down Subsistence put bullets back in the mag, fun roll for a 720, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=4090651448,2420895100,1820235745,1546637391#notes:PVE solid roll, extended mags slows reload down Subsistence put bullets back in the mag, fun roll for a 720, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=4090651448,2420895100,1820235745,2848615171#notes:PVE solid roll, extended mags slows reload down Subsistence put bullets back in the mag, fun roll for a 720, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=1840239774,2420895100,1820235745,2848615171#notes:PVE solid roll, extended mags slows reload down Subsistence put bullets back in the mag, fun roll for a 720, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=1840239774,2420895100,1820235745,1546637391#notes:PVE solid roll, extended mags slows reload down Subsistence put bullets back in the mag, fun roll for a 720, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=1392496348,2420895100,1820235745,1546637391#notes:PVE solid roll, extended mags slows reload down Subsistence put bullets back in the mag, fun roll for a 720, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=1392496348,2420895100,1820235745,2848615171#notes:PVE solid roll, extended mags slows reload down Subsistence put bullets back in the mag, fun roll for a 720, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=1482024992,2420895100,1820235745,2848615171#notes:PVE solid roll, extended mags slows reload down Subsistence put bullets back in the mag, fun roll for a 720, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=1482024992,2420895100,1820235745,1546637391#notes:PVE solid roll, extended mags slows reload down Subsistence put bullets back in the mag, fun roll for a 720, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=1482024992,106909392,1820235745,1546637391#notes:PVE good roll, alternative to Outlaw roll, Subsistence is a solid Perk often overshadowed by outlaw, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=1482024992,106909392,1820235745,2848615171#notes:PVE good roll, alternative to Outlaw roll, Subsistence is a solid Perk often overshadowed by outlaw, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=1392496348,106909392,1820235745,2848615171#notes:PVE good roll, alternative to Outlaw roll, Subsistence is a solid Perk often overshadowed by outlaw, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=1392496348,106909392,1820235745,1546637391#notes:PVE good roll, alternative to Outlaw roll, Subsistence is a solid Perk often overshadowed by outlaw, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=1840239774,106909392,1820235745,1546637391#notes:PVE good roll, alternative to Outlaw roll, Subsistence is a solid Perk often overshadowed by outlaw, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=1840239774,106909392,1820235745,2848615171#notes:PVE good roll, alternative to Outlaw roll, Subsistence is a solid Perk often overshadowed by outlaw, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=4090651448,106909392,1820235745,2848615171#notes:PVE good roll, alternative to Outlaw roll, Subsistence is a solid Perk often overshadowed by outlaw, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=4090651448,106909392,1820235745,1546637391#notes:PVE good roll, alternative to Outlaw roll, Subsistence is a solid Perk often overshadowed by outlaw, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=839105230,106909392,1820235745,1546637391#notes:PVE good roll, alternative to Outlaw roll, Subsistence is a solid Perk often overshadowed by outlaw, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=839105230,106909392,1820235745,2848615171#notes:PVE good roll, alternative to Outlaw roll, Subsistence is a solid Perk often overshadowed by outlaw, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=839105230,1087426260,1820235745,2848615171#notes:PVE good roll, alternative to Outlaw roll, Subsistence is a solid Perk often overshadowed by outlaw, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=839105230,1087426260,1820235745,1546637391#notes:PVE good roll, alternative to Outlaw roll, Subsistence is a solid Perk often overshadowed by outlaw, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=4090651448,1087426260,1820235745,2848615171#notes:PVE good roll, alternative to Outlaw roll, Subsistence is a solid Perk often overshadowed by outlaw, RECOMMENDED MW stab/reload
+dimwishlist:item=20935540&perks=4090651448,1087426260,1820235745,1546637391#notes:PVE good roll, alternative to Outlaw roll, Subsistence is a solid Perk often overshadowed by outlaw, RECOMMENDED MW stab/reload
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trustee
 dimwishlist:item=1392919471&perks=1482024992,1087426260,2387244414,699525795#notes:PVP god roll
